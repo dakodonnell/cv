@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", async () => {
     try {
-        const response = await fetch("resume.json"); // Fetch JSON resume
+        const response = await fetch("cvdako20250318.json"); // Fetch JSON resume
         const resume = await response.json();
 
         document.getElementById("name").textContent = resume.basics.name;
