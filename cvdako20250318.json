@@ -45,15 +45,13 @@
   ],
   "volunteer": [
     {
-      "organization": "Menlo Park Laboratory",
-      "position": "Lead Researcher",
-      "website": "https://menloparklab.com",
-      "startDate": "1876-01-01",
-      "endDate": "1931-10-18",
-      "summary": "Conducted research and experiments leading to numerous patents and innovations.",
+      "organization": "Experience Church",
+      "position": "Videographer",
+      "website": "https://experiencechurch.ca",
+      "startDate": "2020-03-01",
+      "summary": "Filmed and produced live church services for livestreaming and social media.",
       "highlights": [
-        "Developed the phonograph, a device for recording and reproducing sound.",
-        "Invented the motion picture camera, contributing to the birth of the film industry."
+        "Telling the story of Christ in creative and future forward ways."
       ]
     }
   ],
@@ -99,12 +97,12 @@
       ]
     },
     {
-      "name": "Entrepreneurship",
+      "name": "Videography",
       "level": "Expert",
       "keywords": [
-        "Business Development",
-        "Product Innovation",
-        "Industrial Research"
+        "Broadcast Video",
+        "Event Video",
+        "Wedding Video"
       ]
     }
   ],
@@ -117,7 +115,7 @@
   ],
   "interests": [
     {
-      "name": "Research and Development",
+      "name": "Open Source Sciene",
       "keywords": [
         "Innovations",
         "Experimentation"
