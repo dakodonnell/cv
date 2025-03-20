@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Daniel Kent-O'Donnell",
+    "label": "Geophysics Graduate",
+    "email": "dakodonnell@gmail.com",
+    "phone": "(403) 401-3216",
+    "url": "https://dakodonnell.com",
+    "summary": "Looking for work in Geoscience.",
+    "location": {
+      "city": "Calgary",
+      "countryCode": "AB",
+      "region": "Alberta"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "dakodonnell",
+        "url": "https://www.linkedin.com/in/dakodonnell"
+      },
+      {
+        "network": "GitHub",
+        "username": "dakodonnell",
+        "url": "https://github.com/dakodonnell"
+      }
+    ],
+    "picture": "https://example.com/photo.jpg",
+    "website": "https://dakodonnell.com"
+  },
+  "work": [
+    {
+      "name": "Best Western Port O'Call Hotel",
+      "position": "Purchasing Manager",
+      "startDate": "2018-11-01",
+      "summary": "Managed procurement operations, supplier negotiations, and cost optimization.",
+      "highlights": [
+        "Implemented a new vendor management system, reducing redundant administrative work and improving cost reporting.",
+        "Automated food and liquor costing, completely eliminating the need for manual data entry in cost reporting.",
+        "Consolidated food suppliers, leveraging competition to lower prices and secure back-end rebates.",
+        "Streamlined just-in-time deliveries to reduce overhead by 20%."
+      ],
+      "website": "https://bwportocallhotel.com"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Experience Church",
+      "position": "Videographer",
+      "startDate": "2020-03-01",
+      "summary": "Filmed and produced live church services for livestreaming and social media.",
+      "highlights": [
+        "Telling the story of Christ in creative and future forward ways."
+      ],
+      "website": "https://experiencechurch.ca",
+      "url": "https://experiencechurch.ca"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Calgary",
+      "area": "Geophysics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-09-07",
+      "endDate": "2018-06-15",
+      "courses": [
+        "Independent Study - Undergraduate Research Thesis",
+        "Advanced Seismic Data Processing - Thrust Belt Imaging"
+      ],
+      "gpa": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Investigating the utility of airborne electromagnetic surveys for mapping local and regional hydrogeology in the Edmonton-Calgary corridor",
+      "publisher": "International Association of Hydrogeologists (IAG) - Regional Groundwater Conference Paper",
+      "releaseDate": "2017-06-26",
+      "url": "https://www.researchgate.net/publication/317318202_Investigating_the_utility_of_airborne_electromagnetic_surveys_for_mapping_local_and_regional_hydrogeology_in_the_Edmonton-Calgary_corridor",
+      "summary": "Airborne magnetic and electromagnetic (EM) data were collected between 2007 and 2010 as part of a large-scale \nmapping program designed to better characterize subsurface lithology in the Edmonton-Calgary corridor (ECC). ",
+      "website": "https://scientificamerican.com"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "Java",
+        "Julia"
+      ]
+    },
+    {
+      "name": "Videography",
+      "level": "Expert",
+      "keywords": [
+        "Broadcast Video",
+        "Event Video",
+        "Wedding Video"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source",
+      "keywords": [
+        "Science",
+        "Research Development"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Naushad Kanji",
+      "reference": "Upon request."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "3D Seismic Aquisition Design",
+      "date": "2017-03-01",
+      "issuer": "Society of Exploration Geophysics (SEG) - Andreas Cordsen"
+    }
+  ],
+  "meta": {
+    "lastModified": "2025-03-20T11:38:36-06:00Z"
+  }
+}
