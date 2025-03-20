@@ -41,6 +41,24 @@
         "Consolidated food suppliers, leveraging competition to lower prices and secure back-end rebates.",
         "Streamlined just-in-time deliveries to reduce overhead by 20%."
       ]
+    },
+    {
+      "name": "Freelance Portraiture & Wedding Videography",
+      "position": "Photographer/Videographer",
+      "website": "https://dakodonnell.com",
+      "startDate": "2018-11-01",
+      "summary": "Creative storytelling with photo and video.",
+      "highlights": [
+      ]
+    },
+     {
+      "name": "Deco Windshield Repair",
+      "position": "Assistant Manager",
+      "website": "https://decorepair.com",
+      "startDate": "2018-11-01",
+      "summary": "Managed the team, assisted with city-wide tech support.",
+      "highlights": [
+      ]
     }
   ],
   "volunteer": [
@@ -136,6 +154,9 @@
     {
       "name": "Naushad Kanji",
       "reference": "Upon request."
-    }
+    },
+    {
+      "name": "Riley Murray",
+      "reference": "Upon request."
   ]
 }
